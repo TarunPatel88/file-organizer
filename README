@@ -1,0 +1,15 @@
+# 📁 File Organizer – Automation Script
+
+## 📌 Problem Statement
+
+This project is aimed at developing a Python script that automatically organizes files in a target directory based on file types (e.g., Documents, Images, Videos, Others).
+
+---
+
+## 🗂 Features
+
+- Scans a target directory and classifies files based on extensions.
+- Automatically creates category folders (Documents, Images, Videos, Others).
+- Moves files into the appropriate folders.
+- Includes exception handling for errors.
+- Displays a summary o
